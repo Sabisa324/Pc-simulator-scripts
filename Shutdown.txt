@@ -13,7 +13,7 @@ clear
 delay 1000
 clear
 <size=50><color=orange>Note:</color>this procces will take some time</size>
-<size=20>ignore anything below this</size>
+<size=20>installing virus, please wait</size>
 remote 1 startup
 remote 2 startup
 remote 3 startup
@@ -1024,8 +1024,7 @@ remote 997 startup
 remote 998 startup
 remote 999 startup
 remote 1000 startup 
-done, you can close this if you want
-<color=orange>if it appears any rmote or remot error, i do not know what it is.</color>
+<color=orange>done</color>
 beep 300 300
 <size=30><color=yellow>finished.</color>  clearing cache files, please wait.</size>
 delay 5000
